@@ -1,0 +1,57 @@
+:root {
+    font-size: 14px;
+}
+
+body {
+    padding: 20px;
+}
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    position: relative;
+    left: 30px;
+}
+
+p.optioninfo {
+    position: relative;
+    left: 30px;    
+    width: 70%;
+    text-align: justify;
+}
+
+div.div-paragraph-text {
+    position: relative;
+    left: 30px;
+    width: 80%;
+    text-align: justify;
+}
+
+p.div-paragraph-text {
+    position: relative;
+    left: 30px;
+    width: 80%;
+    text-align: justify;
+}
+
+table {
+    position: relative;
+    width: 100%;
+}
+td.line-hdr {
+    font-size: 18px;
+}
+tr:nth-child(even) {
+    background-color: azure;
+  }
+th {
+    text-align: center;
+    margin: 50px;
+    font-size: 20px;
+    background-color: lightblue;
+}
